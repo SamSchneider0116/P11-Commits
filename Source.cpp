@@ -26,7 +26,6 @@ void displayAllSeats(char seats[][NUMROWS]);					//Displays all seat columns and
 
 
 
-
 int main() {
 
 	string userInput = "";			//User input, requested seat
@@ -118,6 +117,7 @@ int main() {
 	}
 
 }
+
 
 
 /*
